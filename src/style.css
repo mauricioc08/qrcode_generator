@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.input {
+  height: 38px;
+  border-radius: 8px;
+  max-width: 300px;
+  width: 100%;
+  margin: 24px 0;
+  padding: 8px;
+  outline: none;
+  border: 1px solid #b6b6b6;
+}
+
+.linkDownload {
+  padding: 10px 20px;
+  background: rgb(56, 55, 53);
+  border-radius: 8px;
+  color: aliceblue;
+  text-decoration: none;
+}
