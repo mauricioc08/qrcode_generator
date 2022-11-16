@@ -1,4 +1,4 @@
-# A qrcode generator made in Reactjs
+# A Qrcode generator made in Reactjs
 
 
 ![Captura de tela 2022-11-16 133746](https://user-images.githubusercontent.com/105306316/202244152-28f5fa69-2867-43b2-bf54-2a273018ee0f.png)
